@@ -1,0 +1,70 @@
+{
+  "projects": [
+    {
+      "id": "51a399d7-6475-48fd-8c82-cfd0c9355b8e",
+      "name": "Looney Tunes Symphony",
+      "description": "A playlist of the classical/opera featured on Looney Tunes.",
+      "color": "indigo",
+      "archived": false,
+      "estimated_duration": "3 hours",
+      "created_at": "2026-03-17T23:50:40.652194Z",
+      "updated_at": "2026-03-17T23:50:40.652194Z"
+    },
+    {
+      "id": "5d25eb8c-bf76-49f8-82ce-d2c4fbe3d471",
+      "name": "Portfolio Website prototype",
+      "description": "This will be my walking resume and website, updated constantly and proving my bona fides!",
+      "color": "teal",
+      "archived": false,
+      "estimated_duration": "15 hours",
+      "created_at": "2026-03-18T00:03:44.353571Z",
+      "updated_at": "2026-03-18T00:03:44.353571Z"
+    },
+    {
+      "id": "4f8a2edc-0a94-4860-ae92-1b771425e38d",
+      "name": "Seamless Filesharing",
+      "description": "I need to set up a process to do secure file-sharing between Xanadu and Kitana.",
+      "color": "amber",
+      "archived": false,
+      "estimated_duration": "2 hours",
+      "created_at": "2026-03-18T03:14:46.681938Z",
+      "updated_at": "2026-03-18T03:14:46.681938Z"
+    },
+    {
+      "id": "a9be3be8-2653-4c9f-8ee9-fcc7b5375891",
+      "name": "Consolidate Cisco records",
+      "description": "They still haven't joined my old mihkel.gardner@pcc.edu account to the new mihkeland@proton.me.",
+      "color": "rose",
+      "archived": false,
+      "estimated_duration": "1 hour",
+      "created_at": "2026-03-18T03:20:36.042598Z",
+      "updated_at": "2026-03-18T03:20:36.042598Z"
+    }
+  ],
+  "milestones": [
+    {
+      "id": "d91614bc-21c3-42b5-b83c-89ac0115f887",
+      "project_id": "51a399d7-6475-48fd-8c82-cfd0c9355b8e",
+      "title": "capture full recording",
+      "description": "I only have a partial recording at this stage.",
+      "status": "backlog",
+      "order_index": 0,
+      "due_date": null,
+      "estimated_duration": "1 hour",
+      "created_at": "2026-03-17T23:52:32.068541Z",
+      "updated_at": "2026-03-17T23:52:32.068541Z"
+    },
+    {
+      "id": "4f53ddd3-58e0-4e3e-9f74-b3c8fd386853",
+      "project_id": "51a399d7-6475-48fd-8c82-cfd0c9355b8e",
+      "title": "edit recording",
+      "description": "remove commercials and separate individual tracks",
+      "status": "backlog",
+      "order_index": 1,
+      "due_date": null,
+      "estimated_duration": "2 hours",
+      "created_at": "2026-03-17T23:53:20.095354Z",
+      "updated_at": "2026-03-17T23:53:20.095354Z"
+    }
+  ]
+}
