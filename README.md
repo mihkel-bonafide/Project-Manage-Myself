@@ -1,6 +1,6 @@
-# Skeptical PM
+# Project Manage Myself
 
-Skeptical PM is a small local-only project management board for personal projects. Define projects, add milestones, and track them on a visual Kanban-style board.
+'Project Manage Myself' is a small local-only project management board for personal projects. Define projects, add milestones, and track them on a visual Kanban-style board.
 
 ## Features
 
@@ -21,7 +21,7 @@ Skeptical PM is a small local-only project management board for personal project
 1. Open a terminal in the project folder:
 
    ```bash
-   cd "c:\\Users\\useth\\Muh_Projects\\Skeptical-PM"
+   cd "c:\\Users\\useth\\Muh_Projects\\Project-Manage-Myself"
    ```
 
 2. (Optional but recommended) Create and activate a virtual environment:
